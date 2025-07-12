@@ -24,7 +24,7 @@
   "engines": {
     "node": ">=18"
   },
-  "name": "minerva",
+  "name": "argus-eye",
   "dependencies": {
     "@prisma/client": "latest"
   },
